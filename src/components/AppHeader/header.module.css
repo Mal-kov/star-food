@@ -1,0 +1,39 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 28px;
+
+}
+
+
+
+
+
+.link{
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+
+
+}
+
+.link_active{
+
+}
+
+.burgerIcon{
+  flex-basis: 11%;
+}
+.listIcon{
+  flex-basis: 13%;
+  /* margin-left: 48px;
+  margin-right: 50px; */
+}
+
+.header_logo{
+  flex-basis: 62%;
+}
+
+.profileIcon{
+  flex-basis: 14%;
+}
